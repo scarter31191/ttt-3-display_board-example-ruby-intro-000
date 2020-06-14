@@ -4,6 +4,5 @@ puts  "-----------"
 puts  "   |   |   "
 puts  "-----------"
 puts  "   |   |   "
-  puts "A Tic Tac Toe Board"
-end
+  end
 puts display_board
